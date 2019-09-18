@@ -1,0 +1,52 @@
+body{
+    background-image: url('https://images.homedepot-static.com/productImages/c06a1d5d-d126-485f-b318-d587e0c3af0d/svn/brewster-wallpaper-hzn43054sam-64_1000.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: rgb(70, 228, 70);
+}
+
+#new{
+    color: aliceblue;
+    font-size: 3em;
+}
+
+
+#photo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#logout{
+    color: aliceblue;
+    font-size: 3em;
+    right: 30px;
+}
+
+#card{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 80px;
+    background-color: blanchedalmond;
+    border-top-left-radius: 48px;
+    border-bottom-left-radius: 48px;
+}
+
+#name{
+    text-decoration: none;
+}
+
+
+#logo{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    transform: translate(10%, -30%);
+}
+
+#card-body{
+    text-align: center;
+}
